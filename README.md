@@ -1,18 +1,39 @@
-### Hello Wolrd! I'm Guilherme🤙🏻
+# 👋 Olá, eu sou o Guilherme Melo
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-melo-632025267/)
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_alesander/)
+💻 Desenvolvedor focado em Back-End com Java  
+🚀 Buscando oportunidade como Desenvolvedor Java Jr  
+📍 Recife - PE  
 
+---
 
-## Tecnologias Que estudo
+## 🚀 Tecnologias & Ferramentas
 
-<div style='display: inline_block'><br/>
-<img olign='center' alt='SQL' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
-<img olign='center' alt='HTML' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' />
-<img olign='center' alt='CSS' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' />
-<img olign='center' alt='Java' src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' />
-<img olign='center' alt='Azure' src='https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white' />
-<img olign='center' alt='SpringBoot' src= 'https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white' />
-</div><br/>
+<p align="left">
 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logoColor=white"/>
 
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=guilhermealesander&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 📫 Contato
+
+📧 Email: gm.alesander@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/guilherme-melo-632025267/
+
+---
+
+✨ Sempre buscando evoluir como desenvolvedor e construir soluções eficientes.
