@@ -26,9 +26,35 @@
 
 ## 📊 Estatísticas GitHub
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=guilhermealesander&show_icons=true&theme=radical" />
-</p>
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+  <!-- Stats gerais -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guilhermealesander&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermealesander&layout=compact&theme=tokyonight" />
+
+  <br><br>
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=guilhermealesander&theme=tokyonight&hide_border=false" />
+
+  <br><br>
+
+  <!-- Grafo de atividade -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermealesander&theme=tokyo-night" />
+
+  <br><br>
+
+  <!-- Troféus -->
+  <img src="https://github-profile-trophy.vercel.app/?username=guilhermealesander&theme=tokyonight&row=1&column=6" />
+
+  <br><br>
+
+  <!-- Contador de visitas -->
+  <img src="https://komarev.com/ghpvc/?username=guilhermealesander&style=for-the-badge" />
+
+</div>
 
 ---
 
