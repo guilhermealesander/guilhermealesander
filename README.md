@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Guilherme Melo
 
 💻 Desenvolvedor focado em Back-End com Java  
-🚀 Buscando oportunidade como Desenvolvedor Java Jr  
 📍 Recife - PE  
 
 ---
